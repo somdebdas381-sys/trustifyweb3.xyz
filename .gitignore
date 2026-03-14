@@ -1,0 +1,10 @@
+# Hardhat
+artifacts/
+cache/
+typechain/
+
+# env files
+.env
+
+# dependencies
+node_modules/
