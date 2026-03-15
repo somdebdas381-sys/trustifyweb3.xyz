@@ -574,7 +574,7 @@
   background-color: rgba(107, 114, 128, 0.2);
   color: var(--status-paid);
 }
-.card-.dashboard-layout {
+.dashboard-layout .card {
   margin-bottom: 1.5rem;
   flex-grow: 1;
 }
